@@ -118,6 +118,7 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json
-
+new_students.csv
+referat2.txt
 # Pyre type checker
 .pyre/
